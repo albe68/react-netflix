@@ -2,7 +2,7 @@
   "name": "netflix-clone",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://NithinKrishna10.github.io/React-Netflix-Clone",
+  "homepage": "https://albe68.github.io/netflix",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
